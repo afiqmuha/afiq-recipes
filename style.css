@@ -1,0 +1,17 @@
+body {
+
+    background-color: green;
+}
+
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
